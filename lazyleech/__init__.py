@@ -37,7 +37,7 @@ MAGNET_TIMEOUT = int(os.environ.get('LEECH_TIMEOUT', 60))
 LEECH_TIMEOUT = int(os.environ.get('LEECH_TIMEOUT', 300))
 
 SOURCE_MESSAGE = '''
-<a href="https://github.com/Lazy-Leecher/lazyleech">lazyleech - Telegram bot primarily to leech from torrents and upload to Telegram</a>
+<a href="https://t.me/Animax_Industry">Working For Animax - Telegram bot primarily to leech from torrents and upload to Telegram</a>
 Copyright (c) 2021 lazyleech developers &lt;theblankx protonmail com, meliodas_bot protonmail com&gt;
 
 This program is free software: you can redistribute it and/or modify
